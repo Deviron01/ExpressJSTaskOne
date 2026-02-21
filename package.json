@@ -1,0 +1,23 @@
+{
+  "name": "expressjstaskone",
+  "version": "1.0.0",
+  "description": "**Task One Express js : Creating a Personal Profile API**\r --",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deviron01/ExpressJSTaskOne.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deviron01/ExpressJSTaskOne/issues"
+  },
+  "homepage": "https://github.com/Deviron01/ExpressJSTaskOne#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
